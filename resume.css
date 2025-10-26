@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: azure;
+}
+
+
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+    background-color: lavenderblush;
+    padding: 10px;
+}
